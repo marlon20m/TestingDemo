@@ -1,0 +1,23 @@
+{
+  "name": "testing-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlon20m/TestingDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlon20m/TestingDemo/issues"
+  },
+  "homepage": "https://github.com/marlon20m/TestingDemo#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
